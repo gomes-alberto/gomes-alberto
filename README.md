@@ -1,15 +1,14 @@
 <h2> Gomes Ricardo Alberto </h2>
 
-<p> Front-end developer que dá vida ao design com código limpo, responsivo e inteligente </p>
+<p> Front-End Developer | HTML | CSS | Tailwind CSS | JavaScript | GitHub </p>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 O que estou fazendo.?
 
-🎓 Graduando em **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**  
+🎓 Cursando **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**  
 📚 Em constante evolução, atualmente estudando Tailwind CSS e React JS  
-🔍 Focado em **Desenvolvimento Front-End**, transformando ideias em projetos, soluções digitais funcionais e eficientes    
-📈 Curioso por Clean Code, arquitetura de software e banco de dados
+🔍 Focado em **Desenvolvimento Front-End**, transformando ideias em soluções digitais funcionais e eficientes
 
 ---
 
