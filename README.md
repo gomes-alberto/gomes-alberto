@@ -1,28 +1,28 @@
 <h2> Gomes Ricardo Alberto </h2>
 
-<p> Front-End Developer | HTML | CSS | Tailwind CSS | JavaScript | GitHub </p>
+<p> Front-End Developer | HTML | CSS | Tailwind CSS | JavaScript | React JS | GitHub </p>
 
 ---
 
 ## 🚀 O que estou fazendo.?
 
   🎓 Cursando **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**  
-  📚 Em constante evolução, atualmente estudando Tailwind CSS e React JS  
+  📚 Em constante evolução, atualmente estudando **Tailwind CSS e React JS**  
   🔍 Focado em **Desenvolvimento Front-End**, transformando ideias em soluções digitais funcionais e eficientes
 
 ---
 
-## 💻 Tecnologias Que Domino
+## 💻 Quais tecnologias uso atualmente.?
 
-<div style="display: inline_block">
-  <img align="center" alt="Gomes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+  <div style="display: inline_block">
+    <img align="center" alt="Gomes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Veja a estatística do meu GitHub.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="450"/>
@@ -31,12 +31,13 @@
 
 ---
 
-## 📬 Como me Contactar
+## 📬 Onde e Como me Contactar.?
 
 <p align="left">
-  <a href="mailto:juliocesarcxz29@gmail.com" target="_blank">
+  <a href="mailto:gomesrick25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  
   <a href="https://www.linkedin.com/in/julio-cesar-rodrigues29/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
