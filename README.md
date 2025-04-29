@@ -26,7 +26,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="320"/>
 </div>
 
 ---
