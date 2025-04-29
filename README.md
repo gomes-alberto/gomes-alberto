@@ -6,9 +6,9 @@
 
 ## 🚀 O que estou fazendo.?
 
-🎓 Cursando **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**  
-📚 Em constante evolução, atualmente estudando Tailwind CSS e React JS  
-🔍 Focado em **Desenvolvimento Front-End**, transformando ideias em soluções digitais funcionais e eficientes
+  🎓 Cursando **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**  
+  📚 Em constante evolução, atualmente estudando Tailwind CSS e React JS  
+  🔍 Focado em **Desenvolvimento Front-End**, transformando ideias em soluções digitais funcionais e eficientes
 
 ---
 
