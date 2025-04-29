@@ -14,20 +14,20 @@
 
 ## 💻 Quais tecnologias uso atualmente.?
 
-  <div style="display: inline_block">
-    <img align="center" alt="Gomes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
+<div>
+  <img align="center" alt="Gomes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
 ---
 
 ## 📈 Veja a estatística do meu GitHub.
 
-<p>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="450"/>
-</p>
+</div>
 
 ---
 
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   
-  <a href="https://www.linkedin.com/in/julio-cesar-rodrigues29/" target="_blank">
+  <a href="https://www.linkedin.com/in/gomesalberto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
