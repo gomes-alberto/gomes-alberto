@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Olá Sou O Gomes Alberto </h1>
+<h1> Olá Sou O Gomes Alberto </h1>
 
-<p align="center">
+<p>
     Front-end developer que dá vida ao design com código limpo, responsivo e inteligente  
 </p>
 
@@ -28,7 +28,7 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="400"/>
 </p>
 
