@@ -1,8 +1,6 @@
-<h1> Olá Sou O Gomes Alberto </h1>
+<h2> Gomes Ricardo Alberto </h2>
 
-<p>
-    Front-end developer que dá vida ao design com código limpo, responsivo e inteligente  
-</p>
+<p> Front-end developer que dá vida ao design com código limpo, responsivo e inteligente </p>
 
 ---
 
@@ -10,7 +8,7 @@
 
 🎓 Graduando em **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**  
 📚 Em constante evolução, atualmente estudando Tailwind CSS e React JS  
-🔍 Focado em **Desenvolvimento Front-End**, criando e transformando ideias em projetos, soluções digitais funcionais e eficientes    
+🔍 Focado em **Desenvolvimento Front-End**, transformando ideias em projetos, soluções digitais funcionais e eficientes    
 📈 Curioso por Clean Code, arquitetura de software e banco de dados
 
 ---
@@ -28,8 +26,8 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="450"/>
 </p>
 
 ---
