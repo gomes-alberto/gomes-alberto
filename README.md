@@ -1,6 +1,6 @@
-<h2> Gomes Alberto </h2>
+<h2> Gomes Alberto 🚀✨ </h2>
 
-### 🚀 O que estou fazendo.?
+#### 🚀 O que estou fazendo.?
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 Quais tecnologias uso actualmente.?
+#### 💻 Quais tecnologias uso actualmente.?
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 Qual é a estatística do meu GitHub.?
+#### 📊 Qual é a estatística do meu GitHub.?
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📬 Como me Contactar.?
+#### 📬 Como me Contactar.?
 
 ---
 
