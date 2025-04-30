@@ -17,7 +17,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="315"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="314"/>
 </div>
 
 <h4> 📬 Bora trocar uma ideia? </h4>
