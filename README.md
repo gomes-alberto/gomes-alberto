@@ -5,7 +5,7 @@
   📚 Em constante evolução, atualmente estudando **Tailwind CSS e React JS** <br>
   🎯 Focado em **Desenvolvimento Front-End**, transformar ideias em soluções digitais funcionais e eficientes
 
-<h4> 💻 Meu trio favorito </h4>
+<h4> 💻 Meu trio favorito (Início de tudo) </h4>
 
 <div>
   <img align="center" alt="Gomes-HTML" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,13 +16,8 @@
 <h4> 📊 Estatística do perfil </h4>
 
 <div>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="350"/>
-  </p>
-
-   <p>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="320"/>
-    </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="315"/>
 </div>
 
 <h4> 📬 Bora trocar uma ideia? </h4>
