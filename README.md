@@ -1,4 +1,5 @@
-<h2> Gomes Alberto </h2>
+<h2> Olá! tudo bem? <br>
+  Sou o Gomes Alberto </h2>
 
   🎓 Graduando em **Ciências da Computação** pelo Instituto Superior Politécnico Metropolitano de Angola <br>
   📚 Em constante evolução, atualmente estudando **Tailwind CSS e React JS** <br>
