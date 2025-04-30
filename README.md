@@ -1,9 +1,5 @@
 <h2> Gomes Alberto </h2>
 
-<p> </p>
-
----
-
 ### 🚀 O que estou fazendo.?
 
 ---
