@@ -1,6 +1,6 @@
 <h2> Gomes Alberto </h2>
 
-  🎓 Graduando em **Ciências da Computação** pelo Instituto Superior Politécnico Metropolitano de Angola <br>
+  🎓 Graduando em **Ciências da Computação** pelo Instituto Superior Politécnico Metropolitano de Angola - IMETRO <br>
   📚 Em constante evolução, atualmente estudando **Tailwind CSS e React JS** <br>
   🎯 Focado em **Desenvolvimento Front-End**, transformar ideias em soluções digitais funcionais e eficientes
 
