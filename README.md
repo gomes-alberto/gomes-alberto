@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="315"/>
 </div>
 
-<h4> 📬 Bora trocar uma ideia? </h4>
+<h4> 📩 Bora trocar uma ideia? </h4>
 
 <p margin-left="20px">
   <a href="mailto:gomesrick25@gmail.com" target="_blank">
