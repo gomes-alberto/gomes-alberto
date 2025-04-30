@@ -1,6 +1,6 @@
 <h2> Gomes Alberto </h2>
 
-<p> Front-End Developer | HTML | CSS | Tailwind CSS | JavaScript | React JS | GitHub </p>
+<p> </p>
 
 ---
 
