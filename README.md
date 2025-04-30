@@ -6,6 +6,8 @@
 
 ### 🚀 O que estou fazendo.?
 
+---
+
   🎓 Cursando **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola** <br>
   📚 Em constante evolução, atualmente estudando **Tailwind CSS e React JS** <br>
   🎯 Focado em **Desenvolvimento Front-End**, transformar ideias em soluções digitais funcionais e eficientes
@@ -13,6 +15,8 @@
 ---
 
 ### 💻 Quais tecnologias uso actualmente.?
+
+---
 
 <div>
   <img align="center" alt="Gomes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,6 +28,8 @@
 
 ### 📊 Qual é a estatística do meu GitHub.?
 
+---
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-alberto&layout=compact&theme=github_dark" width="320"/>
@@ -31,7 +37,9 @@
 
 ---
 
-### 📬 Onde e Como me Contactar.?
+### 📬 Como me Contactar.?
+
+---
 
 <p align="left">
   <a href="mailto:gomesrick25@gmail.com" target="_blank">
@@ -42,5 +50,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
