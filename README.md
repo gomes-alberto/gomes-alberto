@@ -1,18 +1,18 @@
-<h2> Gomes Ricardo Alberto </h2>
+<h2> Gomes Alberto </h2>
 
 <p> Front-End Developer | HTML | CSS | Tailwind CSS | JavaScript | React JS | GitHub </p>
 
 ---
 
-## 🚀 O que estou fazendo.?
+### 🚀 O que estou fazendo.?
 
-  🎓 Cursando **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**  
-  📚 Em constante evolução, atualmente estudando **Tailwind CSS e React JS**  
-  🔍 Focado em **Desenvolvimento Front-End**, transformando ideias em soluções digitais funcionais e eficientes
+  🎓 Cursando **Ciências da Computação** pelo **Instituto Superior Politécnico Metropolitano de Angola**
+  📚 Em constante evolução, atualmente estudando **Tailwind CSS e React JS**
+  🎯 Focado em **Desenvolvimento Front-End**, transformar ideias em soluções digitais funcionais e eficientes
 
 ---
 
-## 💻 Quais tecnologias uso atualmente.?
+### 💻 Quais tecnologias uso actualmente.?
 
 <div>
   <img align="center" alt="Gomes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +22,7 @@
 
 ---
 
-## 📈 Veja a estatística do meu GitHub.
+### 📊 Qual é a estatística do meu GitHub.?
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gomes-alberto&show_icons=true&theme=github_dark" width="350"/>
@@ -31,7 +31,7 @@
 
 ---
 
-## 📬 Onde e Como me Contactar.?
+### 📬 Onde e Como me Contactar.?
 
 <p align="left">
   <a href="mailto:gomesrick25@gmail.com" target="_blank">
@@ -44,13 +44,3 @@
 </p>
 
 ---
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
