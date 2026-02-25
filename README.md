@@ -1,19 +1,56 @@
-<h2> Olá! tudo bem? <br> Sou o Gomes Alberto </h2>
+![Banner do Projeto](./assets/banner-github.jpg)
 
-  🎓 Graduando em **Ciências da Computação** pelo Instituto Superior Politécnico Metropolitano de Angola <br>
-  📚 Em constante evolução, atualmente estudando **Tailwind CSS e React** <br>
-  🎯 Focado em **Desenvolvimento Front-End**, transformar ideias em soluções digitais funcionais e eficientes
+<h4> Olá! tudo bem? 👋 <br> Meu nome é Gomes Alberto </h4>
+ 
+- 🎓 Estudante de **Ciências da Computação** no IMETRO - Angola
+- 🚀 Atualmente estudando **React.js e Tailwind CSS**
+- 🎯 Criação de soluções com arquitetura organizada, priorizando performance e escalabilidade.
 
-<h4> 💻 Meu trio favorito (Início de tudo) </h4>
+<h5> 💻 Tecnologias que uso </h5>
 
 <div>
+
   <!-- HTML -->
-  <img align="center" alt="Gomes-HTML" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gomes-HTML" height="32" width="45"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  style="margin-right: 10px;">
+
   <!-- CSS -->
-  <img align="center" alt="Gomes-CSS" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- JAVA SCRIPT -->
-  <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Gomes-CSS" height="32" width="45"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  style="margin-right: 10px;">
+
+  <!-- JavaScript -->
+  <img align="center" alt="Gomes-JS" height="32" width="45"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  style="margin-right: 10px;">
+
+  <!-- React -->
+  <img align="center" alt="Gomes-React" height="32" width="45"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  style="margin-right: 10px;">
+
+  <!-- Tailwind -->
+  <img align="center" alt="Gomes-Tailwind" height="32" width="45"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+
 </div>
+
+<h5> 💻 Tecnologias que uso </h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h4> 📊 Estatística do perfil </h4>
 
