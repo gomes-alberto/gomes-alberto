@@ -6,7 +6,7 @@
 - 🚀 Atualmente aprofundando meus conhecimentos em React.js e Tailwind CSS
 - 🎯 Aberto a novos desafios e oportunidades de aprendizado.
 
-<h5> 💻 Tecnologias & Ferramentas que uso </h5>
+<h5> 💻 Tecnologias e ferramentas que uso </h5>
 
 ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6)
