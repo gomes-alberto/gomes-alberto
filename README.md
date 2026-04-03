@@ -1,18 +1,20 @@
 ![Banner do Projeto](./assets/banner-github.jpg)
 
-<h4> Olá! tudo bem? 👋 <br> Meu nome é Gomes Alberto </h4>
+<h4> Olá! 👋 <br> Eu sou Gomes Alberto </h4>
  
 - 🎓 Estudante de Ciências da Computação no IMETRO - Angola
-- 🚀 Atualmente estudando React.js e Tailwind CSS
-- 🎯 Criação de soluções com arquitetura organizada, priorizando performance e escalabilidade.
+- 🚀 Atualmente aprofundando meus conhecimentos em React.js e Tailwind CSS
+- 🎯 Aberto a novos desafios e oportunidades de aprendizado.
 
-<h5> 💻 Tecnologias que uso </h5>
+<h5> 💻 Tecnologias & Ferramentas que uso </h5>
 
 ![HTML](https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=06B6D4)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=ffffff)
 
 <h5> 📊 Estatística do perfil </h5>
 
@@ -47,4 +49,4 @@
     width="90">
 </a>
 
-<h5>Fique avontade para explorar os meus projectos</h5>
+<h5>Fique avontade para explorar meus projectos</h5>
