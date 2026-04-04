@@ -3,8 +3,8 @@
 <h4> Olá! 👋 <br> Eu sou Gomes Alberto </h4>
  
 - 🎓 Estudante de Ciências da Computação no IMETRO - Angola
-- 🚀 Atualmente aprofundando meus conhecimentos em React.js e Tailwind CSS
-- 🎯 Aberto a novos desafios e oportunidades de aprendizado.
+- 🎯 Atualmente aprofundando meus conhecimentos em React.js e Tailwind CSS
+- 🌍 Aberto a novos desafios e oportunidades de aprendizado em ambientes remoto, híbrido ou presencial.
 
 <h5> 💻 Tecnologias e ferramentas que uso </h5>
 
