@@ -34,12 +34,14 @@
 </a>
 
 <!-- LINKEDIN -->
+<!--
 <a href="https://www.linkedin.com/in/gomesalberto/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
     alt="LinkedIn"
     width="70">
-</a>
+</a> 
+-->
 
 <!-- WHATSAPP -->
 <a href="https://wa.me/244948618117" target="_blank">
